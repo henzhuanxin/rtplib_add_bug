@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+  Test.cpp
+d:\project\videodll\rtplib-add-bug\rtplib\test.cpp(97): warning C4018: “<”: 有符号/无符号不匹配
+d:\project\videodll\rtplib-add-bug\rtplib\test.cpp(38): warning C4101: “j”: 未引用的局部变量
+  RtpSession.cpp
+  msjexhnd.cpp
+d:\project\videodll\rtplib-add-bug\rtplib\msjexhnd.cpp(49): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+d:\project\videodll\rtplib-add-bug\rtplib\msjexhnd.cpp(74): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+  DDebug.cpp
+  正在生成代码...
+  tdav_video_jb.c
+d:\project\videodll\rtplib-add-bug\rtplib\tdav_video_jb.c(201): warning C4101: “ret”: 未引用的局部变量
+d:\project\videodll\rtplib-add-bug\rtplib\tdav_video_jb.c(263): warning C4101: “missing_seq_num_count”: 未引用的局部变量
+d:\project\videodll\rtplib-add-bug\rtplib\tdav_video_jb.c(262): warning C4101: “missing_seq_num_start”: 未引用的局部变量
+d:\project\videodll\rtplib-add-bug\rtplib\tdav_video_jb.c(259): warning C4101: “frame”: 未引用的局部变量
+  tdav_codec_ulpfec.c
+  正在生成代码...
+tinyRTP.lib(trtp_srtp.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(ecp_nistputil.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(ecp_nistp521.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(ecp_nistp256.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(ecp_nistp224.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(fips_ers.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 tinyRTP.lib(IPHLPAPI.DLL) 中定义；已忽略第二个定义
+tinyRTP.lib(WINMM.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_powitf2.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_multc3.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_divtc3.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_fixtfdi.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_fixunstfdi.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_floatditf.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(_floatunditf.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(unwind-dw2.o) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(tmedia.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(WS2_32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 tinyRTP.lib(IPHLPAPI.DLL) 中定义；已忽略第二个定义
+tinyRTP.lib(WS2_32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(tnet_transport_poll.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(tnet_transport_cfsocket.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+tinyRTP.lib(tsk_binaryutils.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  rtplib.vcxproj -> D:\Project\VideoDLL\rtplib-add-bug\Debug\rtplib.lib
